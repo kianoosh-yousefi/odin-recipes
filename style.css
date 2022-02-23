@@ -1,0 +1,14 @@
+.heading {
+    font-size: 22;
+    text-align: center;
+}
+
+.olist li{
+    list-style-position: inside;
+    text-align: center;
+    font-weight: bold;
+    color: red;
+}
+a {
+    color: red;
+}
